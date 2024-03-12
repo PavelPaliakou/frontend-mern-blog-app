@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Web interface for MERN blog application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the front-end part for MERN Blog app with React.
+
+npm i react-icons react-router-dom
 
 ## Available Scripts
 
